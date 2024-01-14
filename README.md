@@ -1,0 +1,1 @@
+THIS is a script that generates all alternating-sign matrices of a given dimension. Can quickly compute up to n=5, however complexity grows quickly for greater n. Not quite brute force, but pending further optimisation.
